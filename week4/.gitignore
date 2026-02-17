@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+.venv/
+week4/venv/
+week4/taxi_rides_ny/*.duckdb
+week4/taxi_rides_ny/data/
+week4/taxi_rides_ny/target/
+week4/taxi_rides_ny/dbt_packages/
+week4/taxi_rides_ny/logs/
