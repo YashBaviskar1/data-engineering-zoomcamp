@@ -1,0 +1,8 @@
+fhvhv_tripdata_2021/
+yellow_tripdata_2025/
+
+zones/
+
+
+*.csv
+*.parquet

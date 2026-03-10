@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data folders
+notebooks/fhvhv_tripdata_2021/
+notebooks/yellow_tripdata_2025/
+notebooks/zones/
+
+# Data files
+*.csv
+*.parquet
+*.gz
